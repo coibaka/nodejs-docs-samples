@@ -11,3 +11,4 @@ logs/
 yarn.lock
 package-lock.json
 .envrc
+tput.exe.stackdump
